@@ -1,0 +1,7 @@
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\bin\Debug\CuentaConPropina.exe.config
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\bin\Debug\CuentaConPropina.exe
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\bin\Debug\CuentaConPropina.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\obj\Debug\CuentaConPropina.csproj.AssemblyReference.cache
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\obj\Debug\CuentaConPropina.csproj.CoreCompileInputs.cache
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\obj\Debug\CuentaConPropina.exe
+C:\Users\titos\OneDrive\Desktop\.NET\Curso .NET\Proyecto1\CuentaConPropina\CuentaConPropina\obj\Debug\CuentaConPropina.pdb
