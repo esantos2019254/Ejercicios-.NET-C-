@@ -7,6 +7,9 @@ namespace CuentaConPropina
         static void Main(string[] args)
         {
             int contador = 1;
+            DateTime fechaHoraActual = DateTime.Now;
+            string fechaFormateada = fechaHoraActual.ToString("dd/MM/yyyy");
+            string horaFormateada = fechaHoraActual.ToString("hh:mm tt");
 
             Console.WriteLine("Ingrese el total a pagar de su cuenta.");
             float totalCuenta = float.Parse(Console.ReadLine());
@@ -20,13 +23,18 @@ namespace CuentaConPropina
             float totalPagar = TotalPagar(totalCuenta, porcentaje);
             float[] pagoXPersona = PagoXPersona(totalPagar, numPersonas);
 
-            Console.WriteLine($"El total a pagar contando propina es de: Q{totalPagar}");
+            String mensaje = ConvertirNumeroLetras(totalPagar);
+
+            Console.WriteLine($"El total a pagar contando propina es de: Q{totalPagar}\n" +
+                              $"{mensaje}");
 
             for (int i = 0; i < pagoXPersona.Length; i++)
             {
                 Console.WriteLine($"La persona no.{contador} Paga: Q{pagoXPersona[i]}");
                 contador++;
             }
+
+            Console.WriteLine($"{fechaFormateada} {horaFormateada}");
 
             Console.Read();
         }
@@ -58,5 +66,37 @@ namespace CuentaConPropina
             return pagos;
         }
 
+        static String ConvertirNumeroLetras(float numero)
+        {
+
+            String[] unidades = { "", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve" };
+            String[] decenas = { "", "diez", "veinte", "treinta", "cuarenta", "cincuenta", "sesenta", "setenta", 
+                                 "ochenta", "noventa" };
+            String[] centenas = { "", "ciento", "doscientos", "trescientos", "cuatrocientos", "quinientos", 
+                                  "seiscientos", "setecientos", "ochocientos", "novecientos" };
+            String[] millares = { "", "mil", "dos mil"};
+            String mensaje = "";
+
+            int millar = (int)numero/1000;
+            int centena = (int)(numero % 1000) / 100;
+            int decena = (int)(numero % 100) / 10;
+            int unidad = (int)numero % 10;
+
+            int entero = (int)Math.Floor(numero);
+            int centavos = (int)Math.Round((numero - entero) * 100);
+            int decima = (int)centavos / 10;
+            int centecima = (int)centavos % 10;
+
+            if(centavos > 0 )
+            {
+                mensaje = $"{millares[millar]} {centenas[centena]} {decenas[decena]} y {unidades[unidad]} con " +
+                          $"{decenas[decima]} y {unidades[centecima]} centavos.".Trim();
+            }else
+            {
+                mensaje = $"{millares[millar]} {centenas[centena]} {decenas[decena]} y {unidades[unidad]} con cero centavos.".Trim();
+            }
+
+            return mensaje;
+        }
     }
 }
