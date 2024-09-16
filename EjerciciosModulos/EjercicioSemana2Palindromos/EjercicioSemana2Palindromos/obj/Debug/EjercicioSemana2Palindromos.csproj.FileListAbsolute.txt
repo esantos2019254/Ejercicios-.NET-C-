@@ -1,0 +1,7 @@
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\bin\Debug\EjercicioSemana2Palindromos.exe.config
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\bin\Debug\EjercicioSemana2Palindromos.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\bin\Debug\EjercicioSemana2Palindromos.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\obj\Debug\EjercicioSemana2Palindromos.csproj.AssemblyReference.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\obj\Debug\EjercicioSemana2Palindromos.csproj.CoreCompileInputs.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\obj\Debug\EjercicioSemana2Palindromos.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\EjercicioSemana2Palindromos\EjercicioSemana2Palindromos\obj\Debug\EjercicioSemana2Palindromos.pdb
