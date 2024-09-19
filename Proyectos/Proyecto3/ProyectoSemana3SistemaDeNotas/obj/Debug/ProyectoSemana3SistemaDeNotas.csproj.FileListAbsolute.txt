@@ -1,0 +1,14 @@
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\bin\Debug\ProyectoSemana3SistemaDeNotas.exe.config
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\bin\Debug\ProyectoSemana3SistemaDeNotas.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\bin\Debug\ProyectoSemana3SistemaDeNotas.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.csproj.AssemblyReference.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\EjerciciosModulos\ProyectoSemana3SistemaDeNotas\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\bin\Debug\ProyectoSemana3SistemaDeNotas.exe.config
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\bin\Debug\ProyectoSemana3SistemaDeNotas.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\bin\Debug\ProyectoSemana3SistemaDeNotas.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.csproj.AssemblyReference.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyecto3\ProyectoSemana3SistemaDeNotas\obj\Debug\ProyectoSemana3SistemaDeNotas.pdb
