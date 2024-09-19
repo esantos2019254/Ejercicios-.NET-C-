@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProyectoSemana3SistemaDeNotas
 {
     class Alumno
     {
-        public string Nombre;
+        string Nombre;
         string Apellido;
         string NumIdentificacion;
         string Carrera;
@@ -56,9 +54,14 @@ namespace ProyectoSemana3SistemaDeNotas
         {
             Notas.Add(nota);
         }
-        public void ObtenerPromedio()
+        public Double ObtenerPromedio()
         {
-            Notas.Average();
+            return Math.Round(Notas.Average(), 2);
+        }
+
+        public void InfoAlumno()
+        {
+            Console.WriteLine($"Nombre: {Nombre} {Apellido} => Promedio: {ObtenerPromedio()}");
         }
     }
 }
