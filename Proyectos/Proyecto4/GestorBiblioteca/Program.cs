@@ -47,7 +47,8 @@ namespace GestorBiblioteca
             Console.WriteLine("\n----- LISTA DE MATERIALES -----");
             foreach (var datos in listaMateriales)
             {
-                Console.WriteLine($"Titulo: {datos.Titulo} => Disponible: {datos.Disponible}");
+                string estado = datos.Disponible ? "Disponible" : "No disponible";
+                Console.WriteLine($"Titulo: {datos.Titulo} => Estado: {estado}");
             }
 
             Console.WriteLine("\n----- PRESTAR MATERIALES -----");
@@ -59,13 +60,28 @@ namespace GestorBiblioteca
             biblioteca.DevolverMaterial(revista3);
 
             Console.WriteLine("\n----- BUSCAR MATERIALES -----");
-            var material = biblioteca.BuscarPorTitulo("c");
-
-            foreach (var datos in material)
+            var material = biblioteca.BuscarPorTitulo("DE");
+            if (!material.Any())
             {
-                Console.WriteLine($"Material encontrado: {datos.Titulo}");
+                Console.WriteLine("No se encontraron materiales con ese título.");
+            }
+            else
+            {
+                foreach (var datos in material)
+                {
+                    Console.WriteLine($"Material encontrado: {datos.Titulo}");
+                }
             }
 
+            Console.WriteLine("\n----- PRESTAR MATERIALES -----");
+            biblioteca.PrestarMaterial(libro1);
+
+            Console.WriteLine("\n----- LISTA DE MATERIALES -----");
+            foreach (var datos in listaMateriales)
+            {
+                string estado = datos.Disponible ? "Disponible" : "No disponible";
+                Console.WriteLine($"Titulo: {datos.Titulo} => Estado: {estado}");
+            }
             Console.ReadKey();
         }
     }
