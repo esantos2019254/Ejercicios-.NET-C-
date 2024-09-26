@@ -58,6 +58,7 @@ namespace GestorBiblioteca
 
             Console.WriteLine("\n----- DEVOLVER MATERIALES -----");
             biblioteca.DevolverMaterial(revista3);
+            biblioteca.DevolverMaterial(libro1);
 
             Console.WriteLine("\n----- BUSCAR MATERIALES -----");
             var material = biblioteca.BuscarPorTitulo("DE");
@@ -72,9 +73,6 @@ namespace GestorBiblioteca
                     Console.WriteLine($"Material encontrado: {datos.Titulo}");
                 }
             }
-
-            Console.WriteLine("\n----- PRESTAR MATERIALES -----");
-            biblioteca.PrestarMaterial(libro1);
 
             Console.WriteLine("\n----- LISTA DE MATERIALES -----");
             foreach (var datos in listaMateriales)

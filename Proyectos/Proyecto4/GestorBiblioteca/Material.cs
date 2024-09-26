@@ -18,10 +18,6 @@ namespace GestorBiblioteca
         }
 
         public abstract void Prestar();
-        public virtual void Devolver()
-        {
-            Disponible = true;
-            Console.WriteLine($"El titulo {Titulo} a sido devuelto.");
-        }
+        public abstract void Devolver();
     }
 }
