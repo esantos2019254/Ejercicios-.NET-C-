@@ -1,0 +1,5 @@
+3/10/2024 15:30:25: No se pudo encontrar el archivo 'C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\a.txt'.
+3/10/2024 15:36:47: No se pudo encontrar el archivo 'C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\a.txt'.
+3/10/2024 15:38:18: No se pudo encontrar el archivo 'C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\a.txt'.
+3/10/2024 15:38:41: No se pudo encontrar el archivo 'C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\a.txt'.
+3/10/2024 15:39:08: No se pudo encontrar el archivo 'C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\a.txt'.

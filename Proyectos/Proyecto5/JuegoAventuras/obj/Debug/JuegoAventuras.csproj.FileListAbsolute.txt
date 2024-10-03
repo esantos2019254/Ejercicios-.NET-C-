@@ -1,0 +1,14 @@
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\bin\Debug\JuegoAventuras.exe.config
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\bin\Debug\JuegoAventuras.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\bin\Debug\JuegoAventuras.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.csproj.AssemblyReference.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.csproj.CoreCompileInputs.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto4\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\JuegoAventuras.exe.config
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\JuegoAventuras.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\bin\Debug\JuegoAventuras.pdb
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.csproj.AssemblyReference.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.csproj.CoreCompileInputs.cache
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.exe
+C:\Users\titos\OneDrive\Desktop\.NET\.NET\Proyectos\Proyecto5\JuegoAventuras\obj\Debug\JuegoAventuras.pdb
